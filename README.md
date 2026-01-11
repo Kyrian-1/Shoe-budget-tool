@@ -1,4 +1,4 @@
-# Shoe Budget Tool 🥾💸
+# Shoe Budget Tool
 
 Simple Python script to help you track your monthly shoe budget!
 
